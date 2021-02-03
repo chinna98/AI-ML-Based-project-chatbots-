@@ -1,0 +1,9 @@
+{
+  "id": "e34ab04a-0905-4704-9359-ab15e94a8447",
+  "name": "FacultyId",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

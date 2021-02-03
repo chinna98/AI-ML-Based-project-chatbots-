@@ -1,0 +1,18 @@
+[
+  {
+    "value": "Email",
+    "synonyms": [
+      "Email",
+      "gmail",
+      "mail"
+    ]
+  },
+  {
+    "value": "EmailId",
+    "synonyms": [
+      "EmailId",
+      "Gmail.com",
+      "GmailId"
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "value": "Faculty Address",
+    "synonyms": [
+      "Faculty image",
+      "faculty address"
+    ]
+  },
+  {
+    "value": "Faculty info",
+    "synonyms": [
+      "EmpId",
+      "Faculty data",
+      "faculty id",
+      "faculty image",
+      "faculty mobile",
+      "faculty name"
+    ]
+  },
+  {
+    "value": "Faculty names",
+    "synonyms": [
+      "Faculty names",
+      "name of faculty",
+      "which faculty",
+      "who is faculty"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Faculty id",
+    "synonyms": [
+      "Faculty id"
+    ]
+  },
+  {
+    "value": "mobile number",
+    "synonyms": [
+      "mobile number"
+    ]
+  },
+  {
+    "value": "employee data",
+    "synonyms": [
+      "employee data"
+    ]
+  },
+  {
+    "value": "phone number",
+    "synonyms": [
+      "phone number"
+    ]
+  },
+  {
+    "value": " faculty data",
+    "synonyms": [
+      " faculty data"
+    ]
+  }
+]

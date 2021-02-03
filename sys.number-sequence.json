@@ -1,0 +1,9 @@
+{
+  "id": "b539554e-73fb-42ca-a649-6736a21c223c",
+  "name": "sys.number-sequence",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

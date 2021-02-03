@@ -1,0 +1,9 @@
+{
+  "id": "ac98e4a6-ffad-4b0a-bda3-867c5773f866",
+  "name": "RegId",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}
